@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#6046c7">
+  <meta name="description" content="The Lesson Teacher helps Nigerian JSS students learn English through lessons, scenarios and interactive practice.">
+  <title>The Lesson Teacher | Learn English with confidence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#" aria-label="The Lesson Teacher home">
+        <span class="brand-mark">✦</span><span>The Lesson<br><b>Teacher</b></span>
+      </a>
+      <div class="side-label">LEARNING SPACE</div>
+      <nav class="side-nav">
+        <button class="nav-link active" data-view="home"><span>⌂</span> Overview</button>
+        <button class="nav-link" data-view="lessons"><span>▤</span> Learning academy</button>
+        <button class="nav-link" data-view="practice"><span>✎</span> Practice questions</button>
+        <button class="nav-link" data-view="assessment"><span>◷</span> Mock assessment</button>
+        <button class="nav-link" data-view="progress"><span>▥</span> My progress</button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="help-card"><div class="help-icon">💡</div><b>Need a little help?</b><p>Ask your virtual teacher to explain a topic.</p><button class="text-button" data-view="lessons">Explore lessons →</button></div>
+        <div class="profile-mini"><div class="avatar small">👩🏾‍🏫</div><div><b>Learning buddy</b><small>JSS English learner</small></div></div>
+      </div>
+    </aside>
+
+    <main class="main-area">
+      <header class="topbar">
+        <button class="mobile-menu" id="menuToggle" aria-label="Open menu">☰</button>
+        <div class="breadcrumb">Learning space <span>/</span> <b id="crumb">Overview</b></div>
+        <div class="top-actions"><span class="streak">🔥 <b id="streak">1</b> day streak</span><button class="avatar" title="Your learning teacher">👩🏾‍🏫</button></div>
+      </header>
+
+      <section class="view active" id="view-home">
+        <div class="welcome-banner">
+          <div class="welcome-copy"><span class="eyebrow light">YOUR ENGLISH LEARNING JOURNEY</span><h1>Small steps.<br><em>Brilliant progress.</em></h1><p>Practise, learn and grow your confidence in English, one day at a time.</p><button class="btn btn-yellow" data-view="practice">Start practising <span>→</span></button></div>
+          <div class="hero-art" aria-label="Illustration of a teacher and books">
+            <div class="sun-shape"></div><div class="book book-one">A B C</div><div class="book book-two">📖</div><div class="teacher-illustration"><div class="hair"></div><div class="face">😊</div><div class="body">👩🏾‍🏫</div></div><div class="sparkle s1">✦</div><div class="sparkle s2">✧</div>
+          </div>
+          <div class="banner-dots">● ● ●</div>
+        </div>
+
+        <div class="section-heading"><div><span class="eyebrow">YOUR CLASSROOM</span><h2>Welcome, learner!</h2><p>Choose your class to get lessons at the right level.</p></div><div class="class-select"><label for="classLevel">My class</label><select id="classLevel"><option>JSS 1</option><option>JSS 2</option><option>JSS 3</option></select></div></div>
+
+        <div class="stats-grid">
+          <article class="stat-card"><div class="stat-icon purple">✎</div><div><small>Questions answered</small><strong id="answeredStat">0</strong><span class="stat-note">Keep practising</span></div></article>
+          <article class="stat-card"><div class="stat-icon green">★</div><div><small>Points earned</small><strong id="pointsStat">0</strong><span class="stat-note">Every answer counts</span></div></article>
+          <article class="stat-card"><div class="stat-icon orange">🎯</div><div><small>Accuracy</small><strong id="accuracyStat">0%</strong><span class="stat-note">You are improving</span></div></article>
+        </div>
+
+        <div class="section-heading compact"><div><span class="eyebrow">PICK UP WHERE YOU LEFT OFF</span><h2>Explore English</h2></div><button class="text-button" data-view="lessons">See all topics →</button></div>
+        <div class="topic-grid" id="homeTopics"></div>
+
+        <div class="bottom-grid">
+          <article class="progress-card"><div class="card-heading"><div><span class="eyebrow">YOUR WEEK</span><h3>Learning activity</h3></div><span class="pill">This week</span></div><div class="week-bars" id="weekBars"><div><i style="height:22%"></i><small>Mon</small></div><div><i style="height:45%"></i><small>Tue</small></div><div><i style="height:30%"></i><small>Wed</small></div><div><i style="height:65%"></i><small>Thu</small></div><div><i style="height:35%"></i><small>Fri</small></div><div><i style="height:12%"></i><small>Sat</small></div><div><i style="height:8%"></i><small>Sun</small></div></div></article>
+          <article class="tip-card"><div class="tip-bulb">💡</div><span class="eyebrow">TODAY'S LEARNING TIP</span><h3>Read a little every day.</h3><p>Reading stories, signs and short articles helps you meet new words and understand how sentences work.</p></article>
+        </div>
+      </section>
+
+      <section class="view" id="view-lessons">
+        <div class="page-intro"><span class="eyebrow">THE LEARNING ACADEMY</span><h1>Build your English skills</h1><p>Choose a topic, read a short guide and put what you learn into practice.</p></div>
+        <div class="filter-row"><div class="search-box">⌕ <input id="topicSearch" placeholder="Search a topic..." aria-label="Search topics"></div><select id="levelFilter"><option value="all">All levels</option><option>Beginner</option><option>Intermediate</option></select></div>
+        <div class="lesson-grid" id="lessonGrid"></div>
+      </section>
+
+      <section class="view" id="view-practice">
+        <div class="page-intro"><span class="eyebrow">PRACTICE MAKES PROGRESS</span><h1>Let's practise!</h1><p>Answer a question, then read the explanation to understand the rule.</p></div>
+        <div class="quiz-layout">
+          <div class="quiz-main">
+            <div class="quiz-top"><span class="pill purple-pill" id="quizCategory">Grammar</span><span class="question-count" id="questionCount">Question 1 of 10</span></div>
+            <div class="quiz-progress"><i id="quizProgress"></i></div>
+            <div class="scenario-box"><div class="scenario-icon">🎒</div><div><span class="eyebrow">THE SCENARIO</span><p id="scenarioText"></p></div></div>
+            <h2 class="question-text" id="questionText"></h2>
+            <div class="answer-list" id="answerList"></div>
+            <div class="feedback hidden" id="feedback" aria-live="polite"></div>
+            <div class="quiz-controls"><button class="btn btn-outline" id="skipBtn">Skip for now</button><button class="btn btn-primary" id="checkBtn" disabled>Check answer</button><button class="btn btn-primary hidden" id="nextBtn">Next question →</button></div>
+          </div>
+          <aside class="teacher-note"><div class="teacher-avatar">👩🏾‍🏫</div><span class="eyebrow">A NOTE FROM YOUR TEACHER</span><h3>Learning is a journey!</h3><p>Take your time. Read each option carefully. Even a wrong answer is a chance to learn something new.</p><div class="teacher-sign">Your learning buddy ✨</div></aside>
+        </div>
+      </section>
+
+      <section class="view" id="view-assessment">
+        <div class="page-intro"><span class="eyebrow">CHECK WHAT YOU KNOW</span><h1>Mock assessment</h1><p>Take a short mixed-topic test and see how well you are doing.</p></div>
+        <div class="assessment-card"><div class="assessment-art">📝</div><div><span class="pill green-pill">10 QUESTIONS</span><h2>English skills check</h2><p>Ten randomly selected questions from different English topics. You will see your score and explanations at the end.</p><div class="assessment-meta"><span>◷ About 8–12 minutes</span><span>✦ 10 points per correct answer</span></div><button class="btn btn-primary" id="startAssessment">Begin assessment →</button></div></div>
+      </section>
+
+      <section class="view" id="view-progress">
+        <div class="page-intro"><span class="eyebrow">YOUR LEARNING JOURNEY</span><h1>Look how far you've come</h1><p>Your activity and results are saved on this device.</p></div>
+        <div class="stats-grid progress-stats"><article class="stat-card"><div class="stat-icon purple">✎</div><div><small>Answered</small><strong id="progressAnswered">0</strong></div></article><article class="stat-card"><div class="stat-icon green">★</div><div><small>Points</small><strong id="progressPoints">0</strong></div></article><article class="stat-card"><div class="stat-icon orange">🎯</div><div><small>Accuracy</small><strong id="progressAccuracy">0%</strong></div></article></div>
+        <div class="progress-detail"><h2>Topic performance</h2><div id="topicPerformance"></div></div>
+        <button class="btn btn-outline reset-btn" id="resetProgress">Reset my progress</button>
+      </section>
+
+      <footer class="footer"><span>© 2026 The Lesson Teacher</span><span>Learn with confidence. Grow every day. 💜</span></footer>
+    </main>
+  </div>
+  <nav class="mobile-nav" aria-label="Mobile navigation"><button class="active" data-view="home"><span>⌂</span>Home</button><button data-view="lessons"><span>▤</span>Lessons</button><button data-view="practice"><span>✎</span>Practice</button><button data-view="progress"><span>▥</span>Progress</button></nav>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="data/questions.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

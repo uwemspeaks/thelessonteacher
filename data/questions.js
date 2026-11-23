@@ -1,0 +1,3403 @@
+/* 200 scenario-based English questions for Nigerian JSS learners. */
+window.QUESTION_BANK = [
+  {
+    "id": "LT001",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During assembly, the principal greets the students. Which word is a noun in 'The principal greeted us'?",
+    "question": "principal",
+    "options": [
+      "greeted",
+      "the",
+      "principal",
+      "us"
+    ],
+    "answer": 2,
+    "explanation": "'Principal' names a person, so it is a noun.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT002",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "You are describing your new bag. Which word is an adjective in 'I bought a beautiful bag'?",
+    "question": "beautiful",
+    "options": [
+      "bought",
+      "beautiful",
+      "bag",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "'Beautiful' describes the bag. Words that describe nouns are adjectives.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT003",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Your friend asks what Tunde does every morning. Choose the correct sentence.",
+    "question": "Tunde walk to school every morning.",
+    "options": [
+      "Tunde walk to school every morning.",
+      "Tunde walks to school every morning.",
+      "Tunde walking to school every morning.",
+      "Tunde are walk to school every morning."
+    ],
+    "answer": 1,
+    "explanation": "A singular subject such as 'Tunde' takes 'walks' in the simple present tense.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT004",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "You are writing about two books. Which pronoun replaces 'the books'?",
+    "question": "The books are on the desk.",
+    "options": [
+      "He",
+      "It",
+      "They",
+      "She"
+    ],
+    "answer": 2,
+    "explanation": "'They' is the plural pronoun used for more than one person or thing.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT005",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "At home, you explain where the cup is. Choose the correct preposition: 'The cup is ___ the table.'",
+    "question": "The cup is ___ the table.",
+    "options": [
+      "between",
+      "on",
+      "during",
+      "towards"
+    ],
+    "answer": 1,
+    "explanation": "'On' shows the cup is resting on the surface of the table.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT006",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Your teacher asks for a joining word: 'I was tired, ___ I finished my homework.'",
+    "question": "I was tired, ___ I finished my homework.",
+    "options": [
+      "but",
+      "because",
+      "or",
+      "if"
+    ],
+    "answer": 0,
+    "explanation": "'But' joins contrasting ideas: being tired and still finishing the work.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT007",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which sentence is a question?",
+    "question": "Choose the sentence that asks something.",
+    "options": [
+      "Please close the door.",
+      "Where is my pencil?",
+      "The pencil is blue.",
+      "What a lovely day!"
+    ],
+    "answer": 1,
+    "explanation": "A question asks for information and ends with a question mark.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT008",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Your class is making a list. Which word is a verb in 'The children sing loudly'?",
+    "question": "The children sing loudly.",
+    "options": [
+      "children",
+      "loudly",
+      "the",
+      "sing"
+    ],
+    "answer": 3,
+    "explanation": "'Sing' expresses the action, so it is the verb.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT009",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which sentence uses an article correctly?",
+    "question": "You are describing an animal at the zoo.",
+    "options": [
+      "I saw a elephant.",
+      "I saw an elephant.",
+      "I saw the elephantS.",
+      "I saw an dogs."
+    ],
+    "answer": 1,
+    "explanation": "Use 'an' before a word beginning with a vowel sound, as in 'elephant'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT010",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Choose the correct word: 'Neither Ada nor her sister ___ absent today.'",
+    "question": "Neither Ada nor her sister ___ absent today.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": "With 'neither...nor', the verb agrees with the nearer subject. 'Sister' is singular, so use 'is'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT011",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Your classmate says a task is 'difficult'. Which word has the opposite meaning?",
+    "question": "The teacher asks for an antonym of difficult.",
+    "options": [
+      "hard",
+      "simple",
+      "tough",
+      "challenging"
+    ],
+    "answer": 1,
+    "explanation": "'Simple' is an antonym of 'difficult'; it means easy to do or understand.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT012",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "You want another word for 'happy'. Which is a synonym?",
+    "question": "Find a word with a similar meaning to happy.",
+    "options": [
+      "joyful",
+      "angry",
+      "weak",
+      "careless"
+    ],
+    "answer": 0,
+    "explanation": "'Joyful' and 'happy' have similar meanings.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT013",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "A notice says the meeting is 'postponed'. What does this mean?",
+    "question": "The school meeting will not hold at the planned time.",
+    "options": [
+      "cancelled forever",
+      "moved to a later time",
+      "starting early",
+      "held every day"
+    ],
+    "answer": 1,
+    "explanation": "'Postponed' means delayed or moved to a later time.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT014",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which word is correctly spelt?",
+    "question": "You are checking your homework before submission.",
+    "options": [
+      "enviroment",
+      "environment",
+      "enviromentt",
+      "envirnoment"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'environment'. Remember the sequence: environ + ment.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT015",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Your teacher describes Musa as 'generous'. What does generous mean?",
+    "question": "Musa shares his lunch with a classmate.",
+    "options": [
+      "unwilling to share",
+      "ready to give and share",
+      "always late",
+      "easily frightened"
+    ],
+    "answer": 1,
+    "explanation": "A generous person is willing to give or share with others.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT016",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which word is a homophone of 'sea'?",
+    "question": "You are completing a word-pair exercise.",
+    "options": [
+      "say",
+      "see",
+      "saw",
+      "she"
+    ],
+    "answer": 1,
+    "explanation": "'Sea' and 'see' sound alike but have different meanings and spellings.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT017",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "What is the plural of 'child'?",
+    "question": "Write about several children in your class.",
+    "options": [
+      "childs",
+      "childes",
+      "children",
+      "childrens"
+    ],
+    "answer": 2,
+    "explanation": "The plural of 'child' is the irregular form 'children'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT018",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which word means 'to look at something carefully'?",
+    "question": "Choose a precise word for your report.",
+    "options": [
+      "observe",
+      "ignore",
+      "forget",
+      "scatter"
+    ],
+    "answer": 0,
+    "explanation": "'Observe' means to watch or examine something carefully.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT019",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which word is closest in meaning to 'rapid'?",
+    "question": "A runner moves at a rapid speed.",
+    "options": [
+      "slow",
+      "quick",
+      "silent",
+      "weak"
+    ],
+    "answer": 1,
+    "explanation": "'Rapid' means fast or quick.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT020",
+    "topic": "Vocabulary",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "What does the prefix 'un-' do in 'unfair'?",
+    "question": "You are learning how prefixes change meaning.",
+    "options": [
+      "makes it a name",
+      "means not or opposite of",
+      "shows past tense",
+      "makes it plural"
+    ],
+    "answer": 1,
+    "explanation": "The prefix 'un-' often gives a word a negative or opposite meaning. Unfair means not fair.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT021",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "You are writing your name at the beginning of a sentence. Which is correct?",
+    "question": "Choose the correctly capitalised sentence.",
+    "options": [
+      "my name is ada.",
+      "My name is Ada.",
+      "My Name is ada.",
+      "my Name is Ada."
+    ],
+    "answer": 1,
+    "explanation": "Begin a sentence with a capital letter and capitalise a person's name.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT022",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which punctuation mark ends a direct question?",
+    "question": "Your teacher asks you to punctuate: 'Where are you going'",
+    "options": [
+      "Full stop",
+      "Comma",
+      "Question mark",
+      "Apostrophe"
+    ],
+    "answer": 2,
+    "explanation": "A direct question ends with a question mark.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT023",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Choose the correctly punctuated sentence.",
+    "question": "You are writing a list of items in your school bag.",
+    "options": [
+      "I packed books pens and ruler.",
+      "I packed books, pens and a ruler.",
+      "I packed, books pens and a ruler",
+      "I packed books pens, and a ruler"
+    ],
+    "answer": 1,
+    "explanation": "Commas separate items in a list.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT024",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which sentence uses an apostrophe correctly to show possession?",
+    "question": "You are describing a bag belonging to Efe.",
+    "options": [
+      "Efes bag is blue.",
+      "Efe's bag is blue.",
+      "Efe,s bag is blue.",
+      "Efe bag's is blue."
+    ],
+    "answer": 1,
+    "explanation": "An apostrophe plus s shows that the bag belongs to Efe.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT025",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Choose the correct punctuation for excitement.",
+    "question": "You have won a school competition!",
+    "options": [
+      "I won the competition.",
+      "I won the competition?",
+      "I won the competition!",
+      "I won, the competition"
+    ],
+    "answer": 2,
+    "explanation": "An exclamation mark expresses strong feeling or excitement.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT026",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which mark separates the exact words spoken by someone in writing?",
+    "question": "You are writing dialogue in a story.",
+    "options": [
+      "Quotation marks",
+      "Hyphen",
+      "Full stop only",
+      "Slash"
+    ],
+    "answer": 0,
+    "explanation": "Quotation marks show the exact words spoken by a person.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT027",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Choose the correctly punctuated greeting.",
+    "question": "You are writing a letter to your aunt.",
+    "options": [
+      "Dear Auntie,",
+      "dear auntie",
+      "Dear Auntie.",
+      "dear, Auntie"
+    ],
+    "answer": 0,
+    "explanation": "A comma is commonly used after the greeting in a letter.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT028",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which sentence uses a full stop correctly?",
+    "question": "Select a complete statement.",
+    "options": [
+      "Please come here",
+      "Please come here.",
+      "Please. come here",
+      "Please come. here"
+    ],
+    "answer": 1,
+    "explanation": "A full stop ends a complete statement or command.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT029",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Choose the correct capitalisation.",
+    "question": "You are writing about Lagos State.",
+    "options": [
+      "lagos state is in nigeria.",
+      "Lagos State is in Nigeria.",
+      "Lagos state is in nigeria.",
+      "lagos State is in Nigeria."
+    ],
+    "answer": 1,
+    "explanation": "Names of places and countries begin with capital letters.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT030",
+    "topic": "Punctuation",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "Which sentence correctly uses a comma after an introductory word?",
+    "question": "You begin a sentence with 'Yes'.",
+    "options": [
+      "Yes I understand.",
+      "Yes, I understand.",
+      "Yes; I understand?",
+      "Yes. I, understand."
+    ],
+    "answer": 1,
+    "explanation": "A comma often follows an introductory response such as 'Yes'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT031",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A notice reads: 'The library closes at 4 p.m. on Fridays.' When does it close on Friday?",
+    "question": "Read the school notice carefully.",
+    "options": [
+      "2 p.m.",
+      "3 p.m.",
+      "4 p.m.",
+      "5 p.m."
+    ],
+    "answer": 2,
+    "explanation": "The notice states directly that the library closes at 4 p.m.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT032",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A girl shares her lunch with a hungry pupil. Which quality does she show?",
+    "question": "Read the short situation and infer her character.",
+    "options": [
+      "selfishness",
+      "kindness",
+      "dishonesty",
+      "laziness"
+    ],
+    "answer": 1,
+    "explanation": "Sharing food with someone in need shows kindness and concern.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT033",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A passage says rain fell all night, and the football field was muddy in the morning. Why was the field muddy?",
+    "question": "Use clues from the passage.",
+    "options": [
+      "It was painted.",
+      "Rain fell all night.",
+      "Players cleaned it.",
+      "The sun was hot."
+    ],
+    "answer": 1,
+    "explanation": "The rain soaked the field, making the ground muddy.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT034",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A boy studied daily and passed his examination. What helped him succeed?",
+    "question": "Identify the main cause in the short passage.",
+    "options": [
+      "Luck alone",
+      "Daily study",
+      "Missing classes",
+      "Avoiding books"
+    ],
+    "answer": 1,
+    "explanation": "The passage links his success to studying every day.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT035",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A sign says 'Keep off the grass'. What should visitors do?",
+    "question": "Interpret the instruction on the sign.",
+    "options": [
+      "Walk on the grass",
+      "Stay away from the grass",
+      "Pick the grass",
+      "Water the grass"
+    ],
+    "answer": 1,
+    "explanation": "'Keep off' means do not step on or enter the stated area.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT036",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A pupil arrived late because the bus broke down. What caused the delay?",
+    "question": "Find the stated reason.",
+    "options": [
+      "Heavy rain",
+      "A broken bus",
+      "A missed lesson",
+      "A long queue"
+    ],
+    "answer": 1,
+    "explanation": "The bus breaking down is the direct cause of the pupil's lateness.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT037",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A story says: 'Although Kemi was afraid, she entered the room to help.' What does 'although' show?",
+    "question": "Think about the relationship between the ideas.",
+    "options": [
+      "A contrast",
+      "A list",
+      "A question",
+      "A command"
+    ],
+    "answer": 0,
+    "explanation": "'Although' introduces a contrast: Kemi felt afraid but still helped.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT038",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A school announcement says the debate starts immediately after break. When should students gather?",
+    "question": "Understand the time instruction.",
+    "options": [
+      "Before school",
+      "During assembly",
+      "After break",
+      "At closing time"
+    ],
+    "answer": 2,
+    "explanation": "'Immediately after break' means as soon as the break ends.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT039",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A passage describes a market as noisy, crowded and full of activity. Which word best describes it?",
+    "question": "Choose a word that summarises the description.",
+    "options": [
+      "Quiet",
+      "Busy",
+      "Empty",
+      "Silent"
+    ],
+    "answer": 1,
+    "explanation": "A place full of noise, people and activity is busy.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT040",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A student returned a lost wallet without taking anything. What can you infer?",
+    "question": "Use the student's action as evidence.",
+    "options": [
+      "The student is honest.",
+      "The student is careless.",
+      "The wallet was empty.",
+      "The student dislikes school."
+    ],
+    "answer": 0,
+    "explanation": "Returning the wallet untouched suggests honesty.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT041",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Your teacher asks which word begins with the same sound as 'phone'.",
+    "question": "Listen for the first consonant sound.",
+    "options": [
+      "photo",
+      "pot",
+      "boat",
+      "van"
+    ],
+    "answer": 0,
+    "explanation": "'Phone' and 'photo' begin with the /f/ sound, though ph is used in spelling.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT042",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word has a different vowel sound from the others?",
+    "question": "Say each word aloud: seat, beat, bread, heat.",
+    "options": [
+      "seat",
+      "beat",
+      "bread",
+      "heat"
+    ],
+    "answer": 2,
+    "explanation": "'Bread' has the /e/ vowel sound, while the others have the long /iː/ sound.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT043",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "How many syllables are in 'banana'?",
+    "question": "Clap the beats you hear in the word.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 2,
+    "explanation": "Banana has three syllables: ba-na-na.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT044",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word has the stress on the first syllable?",
+    "question": "Say the words naturally and listen for the strongest beat.",
+    "options": [
+      "TAble",
+      "beGIN",
+      "aBOUT",
+      "reLAX"
+    ],
+    "answer": 0,
+    "explanation": "In 'table', the first syllable is stressed: TA-ble.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT045",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which pair begins with the same consonant sound?",
+    "question": "Choose the pair with matching first sounds.",
+    "options": [
+      "cat / city",
+      "goat / giant",
+      "ship / shoe",
+      "thin / tin"
+    ],
+    "answer": 2,
+    "explanation": "'Ship' and 'shoe' both begin with the /ʃ/ sound.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT046",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word ends with the /t/ sound?",
+    "question": "Listen to the final consonant.",
+    "options": [
+      "bag",
+      "bed",
+      "seat",
+      "sun"
+    ],
+    "answer": 2,
+    "explanation": "'Seat' ends with the /t/ sound.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT047",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word contains a silent letter?",
+    "question": "Look carefully at the spelling and pronunciation.",
+    "options": [
+      "knee",
+      "keep",
+      "king",
+      "kite"
+    ],
+    "answer": 0,
+    "explanation": "The k in 'knee' is silent.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT048",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word has two syllables?",
+    "question": "Clap the spoken parts of each word.",
+    "options": [
+      "school",
+      "teacher",
+      "strength",
+      "asked"
+    ],
+    "answer": 1,
+    "explanation": "Teacher has two syllables: teach-er.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT049",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word rhymes with 'light'?",
+    "question": "Choose the word with the same ending sound.",
+    "options": [
+      "late",
+      "bright",
+      "let",
+      "lot"
+    ],
+    "answer": 1,
+    "explanation": "'Bright' rhymes with 'light' because both end in the /aɪt/ sound.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT050",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word begins with a vowel sound?",
+    "question": "Choose the word whose first spoken sound is a vowel.",
+    "options": [
+      "university",
+      "honest",
+      "uniform",
+      "European"
+    ],
+    "answer": 1,
+    "explanation": "'Honest' begins with a vowel sound because its h is silent.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT051",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing an informal letter to your cousin. Which greeting is suitable?",
+    "question": "Choose a friendly opening.",
+    "options": [
+      "Dear Tola,",
+      "To whom it may concern,",
+      "Dear Sir or Madam,",
+      "The Director,"
+    ],
+    "answer": 0,
+    "explanation": "An informal letter to someone you know may begin with 'Dear' and the person's name.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT052",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is the best topic sentence for a paragraph about cleanliness?",
+    "question": "Choose the sentence that introduces the main idea.",
+    "options": [
+      "I bought a pen yesterday.",
+      "Keeping our school clean is everyone's responsibility.",
+      "My shoes are black.",
+      "The bell rang at noon."
+    ],
+    "answer": 1,
+    "explanation": "A topic sentence introduces the central idea of a paragraph.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT053",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which is the best way to end a formal letter?",
+    "question": "You are writing to a school principal.",
+    "options": [
+      "Lots of love",
+      "Yours faithfully",
+      "See you soon",
+      "Your best friend"
+    ],
+    "answer": 1,
+    "explanation": "'Yours faithfully' is a suitable formal closing when the recipient's name is unknown.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT054",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence avoids unnecessary repetition?",
+    "question": "Improve this sentence: 'The boy he ran quickly.'",
+    "options": [
+      "The boy he quickly ran fast.",
+      "The boy ran quickly.",
+      "The boy ran quick quickly.",
+      "He boy ran quickly."
+    ],
+    "answer": 1,
+    "explanation": "'The boy ran quickly' is clear and avoids repeating the subject.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT055",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "What should a good paragraph mainly contain?",
+    "question": "You are organising an essay.",
+    "options": [
+      "Several unrelated ideas",
+      "One main idea supported by details",
+      "Only questions",
+      "A list of names"
+    ],
+    "answer": 1,
+    "explanation": "A paragraph develops one main idea with supporting sentences.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT056",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is most suitable for a school report?",
+    "question": "Choose a clear and formal sentence.",
+    "options": [
+      "The event was totally lit!",
+      "The event began at 10 a.m. and ended at noon.",
+      "It was mad fun, lol.",
+      "You guys should've come."
+    ],
+    "answer": 1,
+    "explanation": "A report uses clear, factual and appropriately formal language.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT057",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which linking word shows sequence?",
+    "question": "You are explaining steps in a process.",
+    "options": [
+      "However",
+      "Finally",
+      "Although",
+      "Unless"
+    ],
+    "answer": 1,
+    "explanation": "'Finally' signals the last step in a sequence.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT058",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which detail belongs in a descriptive paragraph about a garden?",
+    "question": "Choose a detail that helps readers picture the garden.",
+    "options": [
+      "The flowers were bright red and yellow.",
+      "My examination is next week.",
+      "The bus is late.",
+      "I forgot my ruler."
+    ],
+    "answer": 0,
+    "explanation": "Colours and appearance help readers imagine the garden.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT059",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "What is the purpose of a conclusion in an essay?",
+    "question": "You are finishing an essay about teamwork.",
+    "options": [
+      "Introduce an unrelated topic",
+      "Bring the main points together",
+      "Start a new story",
+      "List every word used"
+    ],
+    "answer": 1,
+    "explanation": "A conclusion rounds off the discussion and reinforces the main message.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT060",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is written in the past tense?",
+    "question": "You are describing yesterday's school activity.",
+    "options": [
+      "We visit the museum.",
+      "We visited the museum.",
+      "We will visit the museum.",
+      "We are visiting the museum."
+    ],
+    "answer": 1,
+    "explanation": "'Visited' is the past-tense form of 'visit'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT061",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are telling a friend about your routine. Choose the correct sentence.",
+    "question": "I ___ breakfast before school every day.",
+    "options": [
+      "eat",
+      "ate",
+      "eating",
+      "will ate"
+    ],
+    "answer": 0,
+    "explanation": "The simple present describes routines and habits. Use 'eat' with 'I'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT062",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are describing yesterday's match. Choose the correct verb.",
+    "question": "Our team ___ the match yesterday.",
+    "options": [
+      "wins",
+      "win",
+      "won",
+      "winning"
+    ],
+    "answer": 2,
+    "explanation": "'Yesterday' signals past time. The past tense of 'win' is 'won'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT063",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are planning for tomorrow. Choose the correct sentence.",
+    "question": "We ___ our aunt tomorrow.",
+    "options": [
+      "visited",
+      "visit yesterday",
+      "will visit",
+      "visiting"
+    ],
+    "answer": 2,
+    "explanation": "'Will visit' expresses a future action.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT064",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is in the present continuous tense?",
+    "question": "Your teacher asks what is happening now.",
+    "options": [
+      "She reads every day.",
+      "She is reading now.",
+      "She read yesterday.",
+      "She will read later."
+    ],
+    "answer": 1,
+    "explanation": "'Is reading' uses be + verb-ing to describe an action happening now.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT065",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct verb: 'The players ___ ready for the match.'",
+    "question": "The players ___ ready for the match.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "'Players' is plural, so use 'are'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT066",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct past tense of 'teach'.",
+    "question": "You are writing about yesterday's lesson.",
+    "options": [
+      "teached",
+      "taught",
+      "teaching",
+      "teaches"
+    ],
+    "answer": 1,
+    "explanation": "'Teach' is an irregular verb. Its past tense is 'taught'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT067",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence uses the present perfect tense?",
+    "question": "Choose the sentence showing a completed action with present relevance.",
+    "options": [
+      "I have finished my work.",
+      "I finish my work daily.",
+      "I finished last week.",
+      "I will finish soon."
+    ],
+    "answer": 0,
+    "explanation": "'Have finished' is the present perfect form.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT068",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct verb: 'By the time we arrived, the film ___.'",
+    "question": "The film ___ before we arrived.",
+    "options": [
+      "starts",
+      "has start",
+      "had started",
+      "will start"
+    ],
+    "answer": 2,
+    "explanation": "The past perfect 'had started' shows an action completed before another past action.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT069",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is correct?",
+    "question": "You are talking about your two sisters.",
+    "options": [
+      "She have two sisters.",
+      "She has two sisters.",
+      "She having two sisters.",
+      "She had has two sisters."
+    ],
+    "answer": 1,
+    "explanation": "The singular third-person subject 'she' takes 'has'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT070",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct form: 'If it rains, we ___ indoors.'",
+    "question": "Complete the likely result.",
+    "options": [
+      "stay",
+      "stayed yesterday",
+      "staying",
+      "stays yesterday"
+    ],
+    "answer": 0,
+    "explanation": "In a first conditional sentence, the if-clause uses present simple and the result clause uses 'will' or an appropriate present form. 'We stay indoors' is grammatical as a general result.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT071",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You meet your principal in the morning. What is a polite greeting?",
+    "question": "Choose an appropriate greeting.",
+    "options": [
+      "What's up?",
+      "Good morning, sir.",
+      "Move away.",
+      "Hey you!"
+    ],
+    "answer": 1,
+    "explanation": "'Good morning, sir' is a respectful greeting in this situation.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT072",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A visitor asks for directions to the library. What is a polite way to respond?",
+    "question": "You know the library is upstairs.",
+    "options": [
+      "Go up the stairs, please.",
+      "Find it yourself.",
+      "You are disturbing me.",
+      "No idea, go away."
+    ],
+    "answer": 0,
+    "explanation": "Polite expressions such as 'please' make directions respectful.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT073",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Your friend gives you a gift. What should you say?",
+    "question": "Choose the appropriate response.",
+    "options": [
+      "I don't care.",
+      "Thank you. I appreciate it.",
+      "Give me another.",
+      "Why?"
+    ],
+    "answer": 1,
+    "explanation": "Saying thank you shows appreciation.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT074",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You did not hear what someone said. What is the best response?",
+    "question": "Ask the speaker to repeat politely.",
+    "options": [
+      "What? Speak properly!",
+      "Pardon me, could you repeat that?",
+      "Keep quiet.",
+      "I refuse."
+    ],
+    "answer": 1,
+    "explanation": "A polite request asks the speaker to repeat the information.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT075",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Someone apologises for stepping on your foot. What is a suitable response?",
+    "question": "Choose a calm and polite reply.",
+    "options": [
+      "That's all right.",
+      "You are wicked.",
+      "Never speak again.",
+      "I hate you."
+    ],
+    "answer": 0,
+    "explanation": "'That's all right' is a polite response to a minor apology.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT076",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which expression introduces yourself formally?",
+    "question": "You are meeting a new teacher.",
+    "options": [
+      "I be Tunde.",
+      "My name is Tunde.",
+      "Call me anything.",
+      "You know me."
+    ],
+    "answer": 1,
+    "explanation": "'My name is...' is a clear and polite introduction.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT077",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You want to disagree respectfully. Which expression is best?",
+    "question": "You have a different opinion in class.",
+    "options": [
+      "That is stupid.",
+      "I see your point, but I think differently.",
+      "You know nothing.",
+      "Be quiet."
+    ],
+    "answer": 1,
+    "explanation": "Respectful disagreement recognises another view before stating your own.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT078",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which word is a polite request?",
+    "question": "Choose the best phrase.",
+    "options": [
+      "Give me water now!",
+      "Could I have some water, please?",
+      "Water, quick!",
+      "You must bring water."
+    ],
+    "answer": 1,
+    "explanation": "'Could I... please?' is a polite way to make a request.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT079",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are ending a phone conversation with your teacher. What is appropriate?",
+    "question": "Choose a respectful closing.",
+    "options": [
+      "Later, dude.",
+      "Thank you for your time. Goodbye.",
+      "Bye, whatever.",
+      "Stop talking."
+    ],
+    "answer": 1,
+    "explanation": "Thanking the teacher and saying goodbye is respectful.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT080",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Which response shows active listening?",
+    "question": "A classmate explains a problem.",
+    "options": [
+      "Interrupt repeatedly",
+      "Look away and laugh",
+      "I understand. Please tell me more.",
+      "Ignore the speaker"
+    ],
+    "answer": 2,
+    "explanation": "This response shows attention and invites the speaker to continue.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT081",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Your friend says, 'I am feeling under the weather.' What does this mean?",
+    "question": "Interpret the idiom, not the literal words.",
+    "options": [
+      "Standing outside",
+      "Feeling unwell",
+      "Enjoying rain",
+      "Feeling excited"
+    ],
+    "answer": 1,
+    "explanation": "'Under the weather' means feeling ill or unwell.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT082",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A teacher says, 'The classroom was a zoo.' What figure of speech is this?",
+    "question": "The teacher is describing a noisy classroom.",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Alliteration",
+      "Rhyme"
+    ],
+    "answer": 1,
+    "explanation": "A metaphor describes one thing as another to suggest a similarity.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT083",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence contains a simile?",
+    "question": "Choose the comparison using 'like' or 'as'.",
+    "options": [
+      "The stars danced.",
+      "He is a lion.",
+      "Her voice is like music.",
+      "The wind whispered."
+    ],
+    "answer": 2,
+    "explanation": "A simile compares two things using 'like' or 'as'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT084",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "What does 'once in a blue moon' mean?",
+    "question": "Your cousin rarely visits.",
+    "options": [
+      "Every day",
+      "Very rarely",
+      "At night only",
+      "Twice a week"
+    ],
+    "answer": 1,
+    "explanation": "The idiom means something happens very rarely.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT085",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence uses personification?",
+    "question": "Choose the sentence giving a human action to something non-human.",
+    "options": [
+      "The sun smiled at us.",
+      "The sun is hot.",
+      "The sun is a star.",
+      "The sun rose at six."
+    ],
+    "answer": 0,
+    "explanation": "Personification gives a human quality or action to a non-human thing.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT086",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "What does the proverb 'A stitch in time saves nine' teach?",
+    "question": "Your teacher discusses the proverb.",
+    "options": [
+      "Ignore small problems",
+      "Fix problems early before they grow",
+      "Sew clothes every day",
+      "Work only at night"
+    ],
+    "answer": 1,
+    "explanation": "Dealing with a problem early often prevents a bigger problem later.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT087",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "What does 'break the ice' mean?",
+    "question": "A new student joins your class.",
+    "options": [
+      "Break a frozen object",
+      "Make people feel more comfortable",
+      "Start a fight",
+      "Leave the room"
+    ],
+    "answer": 1,
+    "explanation": "The idiom means to ease tension and help people begin talking.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT088",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which expression is an example of alliteration?",
+    "question": "Choose repeated initial consonant sounds.",
+    "options": [
+      "Busy bees buzzed",
+      "A tall tree",
+      "Cold as ice",
+      "The moon is bright"
+    ],
+    "answer": 0,
+    "explanation": "Alliteration repeats the same initial consonant sound in nearby words.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT089",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "What does 'spill the beans' mean?",
+    "question": "A friend says not to spill the beans about the surprise.",
+    "options": [
+      "Cook beans",
+      "Reveal a secret",
+      "Waste food",
+      "Plant seeds"
+    ],
+    "answer": 1,
+    "explanation": "The idiom means to reveal secret information.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT090",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is an example of a hyperbole?",
+    "question": "Choose an obvious exaggeration.",
+    "options": [
+      "I have told you a million times.",
+      "I told you twice.",
+      "I spoke softly.",
+      "I arrived at noon."
+    ],
+    "answer": 0,
+    "explanation": "Hyperbole is deliberate exaggeration for emphasis.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT091",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct sentence for your class report.",
+    "question": "The teacher and the pupils ___ present.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "Two subjects joined by 'and' usually take a plural verb: 'are'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT092",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct verb: 'Each of the girls ___ a notebook.'",
+    "question": "Each of the girls ___ a notebook.",
+    "options": [
+      "have",
+      "has",
+      "are having",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "'Each' is singular, so it takes 'has'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT093",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence shows correct subject-verb agreement?",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "The dogs barks loudly.",
+      "The dog bark loudly.",
+      "The dogs bark loudly.",
+      "The dogs barking loudly."
+    ],
+    "answer": 2,
+    "explanation": "The plural subject 'dogs' takes the base verb 'bark'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT094",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Complete the sentence: 'Mathematics ___ my favourite subject.'",
+    "question": "Mathematics ___ my favourite subject.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The name of a school subject such as mathematics is treated as singular.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT095",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct verb: 'There ___ many pupils outside.'",
+    "question": "There ___ many pupils outside.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "The real subject 'many pupils' is plural, so use 'are'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT096",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct sentence.",
+    "question": "One of my friends ___ in Abuja.",
+    "options": [
+      "live",
+      "lives",
+      "living",
+      "are live"
+    ],
+    "answer": 1,
+    "explanation": "The subject is 'one', which is singular, so use 'lives'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT097",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Complete: 'The news ___ surprising.'",
+    "question": "The news ___ surprising.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "'News' looks plural but is treated as a singular uncountable noun.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT098",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct verb: 'Neither the boys nor the girl ___ ready.'",
+    "question": "Neither the boys nor the girl ___ ready.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "With neither...nor, the verb agrees with the nearer subject, 'girl'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT099",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct sentence.",
+    "question": "The furniture ___ expensive.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "'Furniture' is an uncountable noun and takes a singular verb.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT100",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Complete: 'A pair of shoes ___ under the bed.'",
+    "question": "A pair of shoes ___ under the bed.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The subject is 'a pair', which is singular, so use 'is'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT101",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to passive voice: 'The prefect rang the bell.'",
+    "question": "Your teacher asks you to rewrite the sentence.",
+    "options": [
+      "The bell rang the prefect.",
+      "The bell was rung by the prefect.",
+      "The prefect was rung by the bell.",
+      "The bell is ringing prefect."
+    ],
+    "answer": 1,
+    "explanation": "The object 'the bell' becomes the subject. Use 'was rung' for the past passive.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT102",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to indirect speech: Ada said, 'I am tired.'",
+    "question": "Report Ada's words later.",
+    "options": [
+      "Ada said that I am tired.",
+      "Ada said that she was tired.",
+      "Ada says she tired.",
+      "Ada said that she is tiring."
+    ],
+    "answer": 1,
+    "explanation": "In reported speech, 'I' changes to 'she' and 'am' commonly shifts to 'was'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT103",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the negative form of 'They are ready.'",
+    "question": "Rewrite the sentence without changing its tense.",
+    "options": [
+      "They not are ready.",
+      "They do not ready.",
+      "They are not ready.",
+      "They did not ready."
+    ],
+    "answer": 2,
+    "explanation": "Place 'not' after the auxiliary verb 'are'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT104",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Join the sentences using 'because': 'I stayed indoors. It was raining.'",
+    "question": "Show the reason for staying indoors.",
+    "options": [
+      "I stayed indoors because it was raining.",
+      "Because I stayed indoors it raining.",
+      "I stayed because indoors was raining.",
+      "It was raining because indoors."
+    ],
+    "answer": 0,
+    "explanation": "'Because' introduces the reason for an action.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT105",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to a question: 'She is your sister.'",
+    "question": "Ask for confirmation.",
+    "options": [
+      "Is she your sister?",
+      "She is your sister?",
+      "Does she is your sister?",
+      "Are she your sister?"
+    ],
+    "answer": 0,
+    "explanation": "Move the auxiliary 'is' before the subject to form a question.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT106",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the comparative form of 'good'.",
+    "question": "You are comparing two school essays.",
+    "options": [
+      "gooder",
+      "more good",
+      "better",
+      "best"
+    ],
+    "answer": 2,
+    "explanation": "The irregular comparative form of 'good' is 'better'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT107",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to plural: 'This child is happy.'",
+    "question": "You are describing several children.",
+    "options": [
+      "These children are happy.",
+      "Those child is happy.",
+      "This children are happy.",
+      "These childs are happy."
+    ],
+    "answer": 0,
+    "explanation": "'This' becomes 'these', 'child' becomes 'children', and 'is' becomes 'are'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT108",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct passive form: 'People speak English here.'",
+    "question": "Rewrite with English as the subject.",
+    "options": [
+      "English speaks people here.",
+      "English is spoken here.",
+      "English was speak here.",
+      "People are spoken English."
+    ],
+    "answer": 1,
+    "explanation": "Present simple passive uses 'is/are + past participle': 'is spoken'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT109",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Combine using 'although': 'It was raining. We played football.'",
+    "question": "Show contrast between the two ideas.",
+    "options": [
+      "Although it was raining, we played football.",
+      "Although we played football it raining.",
+      "It was raining although because football.",
+      "Although raining was football."
+    ],
+    "answer": 0,
+    "explanation": "'Although' introduces a contrast between the rain and the decision to play.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT110",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to reported command: The teacher said, 'Sit down.'",
+    "question": "Report the teacher's instruction.",
+    "options": [
+      "The teacher said sit down.",
+      "The teacher told us to sit down.",
+      "The teacher told us sitting down.",
+      "The teacher says sat down."
+    ],
+    "answer": 1,
+    "explanation": "Reported commands commonly use 'told + object + to + verb'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT111",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "At the school gate, you see a sign reading 'No entry'. What does it mean?",
+    "question": "Interpret the public sign.",
+    "options": [
+      "Everyone must enter",
+      "People are not allowed to enter",
+      "Enter quickly",
+      "Entry is free"
+    ],
+    "answer": 1,
+    "explanation": "'No entry' means people must not enter.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT112",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is grammatically correct?",
+    "question": "Choose the best sentence for your homework.",
+    "options": [
+      "She don't like rice.",
+      "She doesn't like rice.",
+      "She doesn't likes rice.",
+      "She not like rice."
+    ],
+    "answer": 1,
+    "explanation": "Use 'doesn't' with the base form 'like' for he, she or it.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT113",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A classmate asks for the meaning of 'accurate'. What does it mean?",
+    "question": "Choose the closest meaning.",
+    "options": [
+      "Correct and exact",
+      "Very noisy",
+      "Unfinished",
+      "Careless"
+    ],
+    "answer": 0,
+    "explanation": "'Accurate' means correct and free from mistakes.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT114",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which word completes the sentence: 'The pupils listened ___ to the instructions.'",
+    "question": "Choose the correct adverb.",
+    "options": [
+      "careful",
+      "carefully",
+      "carefulness",
+      "care"
+    ],
+    "answer": 1,
+    "explanation": "'Carefully' is an adverb describing how the pupils listened.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT115",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which is a complete sentence?",
+    "question": "Choose a group of words with a complete thought.",
+    "options": [
+      "Because I was late",
+      "Running across the field",
+      "The children played outside.",
+      "When the bell rang"
+    ],
+    "answer": 2,
+    "explanation": "'The children played outside' has a subject and a complete predicate.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT116",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct spelling.",
+    "question": "You are proofreading a class notice.",
+    "options": [
+      "seperate",
+      "separate",
+      "seperete",
+      "separrate"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is 'separate'.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT117",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which word is a conjunction?",
+    "question": "Identify the joining word in the sentence.",
+    "options": [
+      "quickly",
+      "under",
+      "although",
+      "teacher"
+    ],
+    "answer": 2,
+    "explanation": "'Although' is a conjunction that joins ideas and introduces contrast.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT118",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the best word: 'Please ___ your name on the form.'",
+    "question": "Select the verb that fits.",
+    "options": [
+      "write",
+      "right",
+      "rite",
+      "writ"
+    ],
+    "answer": 0,
+    "explanation": "'Write' means to form words with a pen or keyboard.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT119",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Which sentence is polite and grammatically correct?",
+    "question": "You are asking to borrow a ruler.",
+    "options": [
+      "Borrow me your ruler.",
+      "Please, may I borrow your ruler?",
+      "I borrow ruler now.",
+      "Give ruler."
+    ],
+    "answer": 1,
+    "explanation": "'May I borrow...' is a polite and grammatically correct request.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT120",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "What is the main purpose of a dictionary?",
+    "question": "A younger pupil asks what a dictionary is for.",
+    "options": [
+      "To show only pictures",
+      "To explain word meanings and spelling",
+      "To record school attendance",
+      "To teach mathematics"
+    ],
+    "answer": 1,
+    "explanation": "A dictionary gives information about words, including meanings and spelling.",
+    "tip": "Read the whole sentence before choosing."
+  },
+  {
+    "id": "LT121",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Your group is preparing a class presentation.",
+    "question": "Which sentence uses an adverb correctly?",
+    "options": [
+      "She sang beautiful.",
+      "She sang beautifully.",
+      "She beautiful sang.",
+      "She singing beautifully."
+    ],
+    "answer": 1,
+    "explanation": "'Beautifully' is an adverb describing how she sang.",
+    "tip": "Adverbs often describe verbs and answer how, when or where."
+  },
+  {
+    "id": "LT122",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing about your classmates.",
+    "question": "Choose the correct possessive pronoun: 'That blue bag is ___.'",
+    "options": [
+      "my",
+      "mine",
+      "me",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "'Mine' is a possessive pronoun that stands alone.",
+    "tip": "Use mine, yours, his, hers, ours or theirs without a noun after it."
+  },
+  {
+    "id": "LT123",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A teacher asks you to identify a compound sentence.",
+    "question": "Which sentence contains two independent clauses joined together?",
+    "options": [
+      "The tall boy smiled.",
+      "I cooked rice, and my sister washed the plates.",
+      "After the rain stopped.",
+      "Running is healthy."
+    ],
+    "answer": 1,
+    "explanation": "Both 'I cooked rice' and 'my sister washed the plates' can stand as complete sentences.",
+    "tip": "A compound sentence joins two independent clauses."
+  },
+  {
+    "id": "LT124",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You read that a person is 'reluctant' to speak.",
+    "question": "What does reluctant mean?",
+    "options": [
+      "eager",
+      "unwilling or hesitant",
+      "very loud",
+      "confident"
+    ],
+    "answer": 1,
+    "explanation": "Reluctant means unwilling or hesitant to do something.",
+    "tip": "Use the surrounding sentence to work out unfamiliar words."
+  },
+  {
+    "id": "LT125",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Your teacher asks for an antonym of 'ancient'.",
+    "question": "Which word is the best antonym?",
+    "options": [
+      "old",
+      "historic",
+      "modern",
+      "aged"
+    ],
+    "answer": 2,
+    "explanation": "Modern is the opposite of ancient.",
+    "tip": "An antonym has an opposite meaning."
+  },
+  {
+    "id": "LT126",
+    "topic": "Vocabulary",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A report says the school has 'adequate' water.",
+    "question": "What does adequate mean?",
+    "options": [
+      "not enough",
+      "sufficient",
+      "dirty",
+      "expensive"
+    ],
+    "answer": 1,
+    "explanation": "Adequate means enough for a particular purpose.",
+    "tip": "A synonym is a word with a similar meaning."
+  },
+  {
+    "id": "LT127",
+    "topic": "Punctuation",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing a sentence with a direct address.",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "Chika please open the window.",
+      "Chika, please open the window.",
+      "Chika please, open the window",
+      "Chika; please open, the window."
+    ],
+    "answer": 1,
+    "explanation": "A comma separates the name of the person being addressed.",
+    "tip": "Use commas to make sentence meaning clear."
+  },
+  {
+    "id": "LT128",
+    "topic": "Punctuation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing about a book belonging to several girls.",
+    "question": "Which phrase is correct?",
+    "options": [
+      "the girl's books",
+      "the girls' books",
+      "the girls books",
+      "the girls's books"
+    ],
+    "answer": 1,
+    "explanation": "The apostrophe follows the s in a plural possessive noun.",
+    "tip": "For a regular plural ending in s, add an apostrophe after the s."
+  },
+  {
+    "id": "LT129",
+    "topic": "Punctuation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing a sentence that includes extra information.",
+    "question": "Which punctuation pair can enclose parenthetical information?",
+    "options": [
+      "Brackets",
+      "Question marks",
+      "Apostrophes",
+      "Exclamation marks"
+    ],
+    "answer": 0,
+    "explanation": "Brackets can enclose additional information within a sentence.",
+    "tip": "Punctuation helps readers recognise how ideas fit together."
+  },
+  {
+    "id": "LT130",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A pupil saved part of her pocket money each week and bought a dictionary.",
+    "question": "What does this suggest about the pupil?",
+    "options": [
+      "She plans and saves.",
+      "She dislikes books.",
+      "She spends carelessly.",
+      "She lost her money."
+    ],
+    "answer": 0,
+    "explanation": "Saving regularly to buy a useful book suggests planning and discipline.",
+    "tip": "An inference is a conclusion drawn from clues."
+  },
+  {
+    "id": "LT131",
+    "topic": "Reading comprehension",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A notice says candidates must arrive by 8:30 a.m. The examination begins at 9 a.m.",
+    "question": "How much earlier must candidates arrive?",
+    "options": [
+      "15 minutes",
+      "30 minutes",
+      "45 minutes",
+      "1 hour"
+    ],
+    "answer": 1,
+    "explanation": "From 8:30 to 9:00 is 30 minutes.",
+    "tip": "Use details and time clues in the text."
+  },
+  {
+    "id": "LT132",
+    "topic": "Reading comprehension",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A passage says the village well dried up after months without rain.",
+    "question": "What is the most likely reason the well dried up?",
+    "options": [
+      "Too much rainfall",
+      "A long period of dry weather",
+      "A new school was built",
+      "The village became larger"
+    ],
+    "answer": 1,
+    "explanation": "The passage connects the lack of rain with the well drying up.",
+    "tip": "Look for cause-and-effect relationships."
+  },
+  {
+    "id": "LT133",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Your teacher asks which word has the /ʃ/ sound.",
+    "question": "Which word contains this sound?",
+    "options": [
+      "chair",
+      "machine",
+      "church",
+      "judge"
+    ],
+    "answer": 1,
+    "explanation": "'Machine' contains the /ʃ/ sound, represented by sh.",
+    "tip": "The same sound can have different spellings."
+  },
+  {
+    "id": "LT134",
+    "topic": "Phonetics",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are practising the difference between /p/ and /b/.",
+    "question": "Which pair differs mainly in the first sound?",
+    "options": [
+      "pat / bat",
+      "seat / sit",
+      "fan / van",
+      "thin / tin"
+    ],
+    "answer": 0,
+    "explanation": "'Pat' begins with /p/ and 'bat' begins with /b/.",
+    "tip": "/p/ is voiceless while /b/ is voiced."
+  },
+  {
+    "id": "LT135",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A teacher asks for the stressed syllable in 'photograph'.",
+    "question": "Which syllable receives the main stress?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "All equally"
+    ],
+    "answer": 0,
+    "explanation": "The main stress in 'photograph' falls on the first syllable: PHO-to-graph.",
+    "tip": "Word stress can change when a word form changes."
+  },
+  {
+    "id": "LT136",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing an invitation to a school event.",
+    "question": "Which detail is essential?",
+    "options": [
+      "Date and venue",
+      "Your favourite colour",
+      "A random proverb",
+      "A long unrelated story"
+    ],
+    "answer": 0,
+    "explanation": "An invitation should tell readers when and where the event will happen.",
+    "tip": "Think about the information your reader needs."
+  },
+  {
+    "id": "LT137",
+    "topic": "Writing skills",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are asked to write a persuasive paragraph about keeping the school clean.",
+    "question": "Which sentence gives a strong supporting reason?",
+    "options": [
+      "Clean surroundings reduce the spread of disease.",
+      "My friend likes football.",
+      "The school bell is loud.",
+      "I bought a new bag."
+    ],
+    "answer": 0,
+    "explanation": "This sentence supports the argument with a relevant reason.",
+    "tip": "Support opinions with clear reasons and examples."
+  },
+  {
+    "id": "LT138",
+    "topic": "Writing skills",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are writing a formal letter to the head teacher.",
+    "question": "Which address belongs at the top of your letter?",
+    "options": [
+      "The writer's address",
+      "A friend's nickname",
+      "The school timetable",
+      "A list of hobbies"
+    ],
+    "answer": 0,
+    "explanation": "A formal letter usually begins with the writer's address and date.",
+    "tip": "Follow the accepted layout for the type of writing."
+  },
+  {
+    "id": "LT139",
+    "topic": "Tenses & verbs",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are describing an action that began earlier and is still happening.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "I have been reading for an hour.",
+      "I read tomorrow.",
+      "I was read now.",
+      "I has read."
+    ],
+    "answer": 0,
+    "explanation": "'Have been reading' is present perfect continuous, showing an action continuing over time.",
+    "tip": "The present perfect continuous uses has/have been + verb-ing."
+  },
+  {
+    "id": "LT140",
+    "topic": "Tenses & verbs",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "You are reporting what happened before another past event.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She had left before I arrived.",
+      "She leaves before I arrived.",
+      "She will leave before I arrived.",
+      "She has leave before I arrived."
+    ],
+    "answer": 0,
+    "explanation": "'Had left' is past perfect and shows the earlier of two past actions.",
+    "tip": "Use past perfect to show an earlier past action."
+  },
+  {
+    "id": "LT141",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are chairing a class discussion.",
+    "question": "Which phrase helps you invite another speaker?",
+    "options": [
+      "You, keep quiet.",
+      "What do you think, Amina?",
+      "Nobody cares.",
+      "I will not listen."
+    ],
+    "answer": 1,
+    "explanation": "A direct, respectful question invites another person to contribute.",
+    "tip": "Good discussion includes listening and turn-taking."
+  },
+  {
+    "id": "LT142",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A guest is leaving your home after a visit.",
+    "question": "What is an appropriate expression?",
+    "options": [
+      "Safe journey.",
+      "Good appetite.",
+      "Congratulations on your meal.",
+      "Happy birthday."
+    ],
+    "answer": 0,
+    "explanation": "'Safe journey' is an appropriate farewell to someone travelling.",
+    "tip": "Choose expressions that fit the social situation."
+  },
+  {
+    "id": "LT143",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "A pupil says, 'The test was a piece of cake.'",
+    "question": "What does the expression mean?",
+    "options": [
+      "The test was easy.",
+      "The test was about food.",
+      "The test was expensive.",
+      "The test was unfinished."
+    ],
+    "answer": 0,
+    "explanation": "A piece of cake means something is very easy.",
+    "tip": "Idioms have meanings different from their literal words."
+  },
+  {
+    "id": "LT144",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "A speaker says, 'The wind howled through the trees.'",
+    "question": "Which figure of speech is used?",
+    "options": [
+      "Personification",
+      "Oxymoron",
+      "Pun",
+      "Simile"
+    ],
+    "answer": 0,
+    "explanation": "The wind is given the human action of howling, which is personification.",
+    "tip": "Personification gives human actions or qualities to non-human things."
+  },
+  {
+    "id": "LT145",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "Your friend says, 'Do not judge a book by its cover.'",
+    "question": "What is the lesson?",
+    "options": [
+      "Appearances do not reveal everything.",
+      "Books must have colourful covers.",
+      "Never read books.",
+      "Only old books are useful."
+    ],
+    "answer": 0,
+    "explanation": "The proverb advises people not to judge someone or something by appearance alone.",
+    "tip": "Explain the lesson or advice behind a proverb."
+  },
+  {
+    "id": "LT146",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Choose the correct sentence for a science report.",
+    "question": "The list of materials ___ on the table.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The subject is 'list', not 'materials'. 'List' is singular, so use 'is'.",
+    "tip": "Do not let a nearby plural noun distract you from the true subject."
+  },
+  {
+    "id": "LT147",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Your teacher asks about a group acting together.",
+    "question": "The committee ___ meeting today.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "A collective noun acting as one unit takes a singular verb in this sentence.",
+    "tip": "Collective nouns can take singular or plural verbs depending on meaning and variety of English."
+  },
+  {
+    "id": "LT148",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Complete the sentence: 'Ten kilometres ___ a long distance to walk.'",
+    "question": "Ten kilometres ___ a long distance to walk.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "A distance considered as one unit takes a singular verb.",
+    "tip": "Measurements treated as a single amount usually take a singular verb."
+  },
+  {
+    "id": "LT149",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to active voice: 'The prize was won by Bola.'",
+    "question": "Choose the active form.",
+    "options": [
+      "Bola won the prize.",
+      "The prize won Bola.",
+      "Bola was won the prize.",
+      "The prize is winning Bola."
+    ],
+    "answer": 0,
+    "explanation": "The agent becomes the subject: Bola won the prize.",
+    "tip": "In active voice, the subject performs the action."
+  },
+  {
+    "id": "LT150",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Change to indirect speech: He said, 'I will come tomorrow.'",
+    "question": "Report his statement later.",
+    "options": [
+      "He said he will come tomorrow.",
+      "He said that he would come the next day.",
+      "He says he came yesterday.",
+      "He said I would come tomorrow."
+    ],
+    "answer": 1,
+    "explanation": "'Will' commonly changes to 'would' and 'tomorrow' to 'the next day' in reported speech.",
+    "tip": "Adjust pronouns, tense and time expressions when reporting speech."
+  },
+  {
+    "id": "LT151",
+    "topic": "General English",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "Your teacher asks you to identify a complex sentence.",
+    "question": "Which sentence contains a dependent clause?",
+    "options": [
+      "I came and I saw.",
+      "When the bell rang, we entered the class.",
+      "The boy laughed.",
+      "Open your book."
+    ],
+    "answer": 1,
+    "explanation": "'When the bell rang' is a dependent clause attached to the main clause.",
+    "tip": "A complex sentence contains an independent clause and at least one dependent clause."
+  },
+  {
+    "id": "LT152",
+    "topic": "General English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "You are proofreading a sentence: 'The girls has arrived.'",
+    "question": "Choose the correction.",
+    "options": [
+      "The girls have arrived.",
+      "The girls is arrived.",
+      "The girls having arrived.",
+      "The girls has arrives."
+    ],
+    "answer": 0,
+    "explanation": "The plural subject 'girls' takes 'have'.",
+    "tip": "Check subject-verb agreement when proofreading."
+  },
+  {
+    "id": "LT153",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, at the school library, you are describing a book.",
+    "question": "Which sentence uses a demonstrative correctly?",
+    "options": [
+      "Those book is new.",
+      "That book is new.",
+      "These book is new.",
+      "This books are new."
+    ],
+    "answer": 1,
+    "explanation": "'That' agrees with the singular noun 'book'.",
+    "tip": "This/that are singular; these/those are plural."
+  },
+  {
+    "id": "LT154",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, your coach says the team must be 'punctual'.",
+    "question": "What does punctual mean?",
+    "options": [
+      "Always early or on time",
+      "Often absent",
+      "Very noisy",
+      "Unable to read"
+    ],
+    "answer": 0,
+    "explanation": "Punctual means arriving or happening at the agreed time.",
+    "tip": "Context clues help you understand new vocabulary."
+  },
+  {
+    "id": "LT155",
+    "topic": "Punctuation",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are writing a title for your composition.",
+    "question": "Which title is capitalised correctly?",
+    "options": [
+      "my best friend",
+      "My Best Friend",
+      "MY best friend",
+      "my Best friend"
+    ],
+    "answer": 1,
+    "explanation": "In title case, the main words begin with capital letters.",
+    "tip": "Follow the capitalisation style requested by your teacher."
+  },
+  {
+    "id": "LT156",
+    "topic": "Reading comprehension",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, the class planted trees around the school. They watered them every morning.",
+    "question": "Why did the pupils water the trees?",
+    "options": [
+      "To help them grow",
+      "To remove the leaves",
+      "To make the soil disappear",
+      "To stop the sun"
+    ],
+    "answer": 0,
+    "explanation": "Water helps young trees grow and remain healthy.",
+    "tip": "Answer from information in the passage."
+  },
+  {
+    "id": "LT157",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are sorting words by their ending sounds.",
+    "question": "Which word ends with the /d/ sound?",
+    "options": [
+      "laughed",
+      "played",
+      "washed",
+      "packed"
+    ],
+    "answer": 1,
+    "explanation": "'Played' ends with the voiced /d/ sound.",
+    "tip": "The -ed ending has different pronunciations."
+  },
+  {
+    "id": "LT158",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are writing instructions for a class project.",
+    "question": "Which word best signals the first step?",
+    "options": [
+      "First",
+      "Finally",
+      "Although",
+      "Instead"
+    ],
+    "answer": 0,
+    "explanation": "'First' introduces the opening step in a sequence.",
+    "tip": "Use sequence markers to organise instructions."
+  },
+  {
+    "id": "LT159",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are describing what your family is doing at this moment.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "My family are eating now.",
+      "My family is eating now.",
+      "My family eat yesterday.",
+      "My family eating now."
+    ],
+    "answer": 1,
+    "explanation": "'Family' is treated as one unit here, so 'is eating' is appropriate.",
+    "tip": "Choose a verb that agrees with the subject and intended meaning."
+  },
+  {
+    "id": "LT160",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you accidentally interrupt someone speaking.",
+    "question": "What should you say?",
+    "options": [
+      "Sorry, please continue.",
+      "Stop talking.",
+      "I do not care.",
+      "Speak faster."
+    ],
+    "answer": 0,
+    "explanation": "Apologising and inviting the person to continue is courteous.",
+    "tip": "Polite conversation includes respect for other speakers."
+  },
+  {
+    "id": "LT161",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, a friend says, 'She has a heart of gold.'",
+    "question": "What does this mean?",
+    "options": [
+      "She is kind and generous.",
+      "Her heart is made of metal.",
+      "She is wealthy.",
+      "She is ill."
+    ],
+    "answer": 0,
+    "explanation": "A heart of gold describes someone who is very kind.",
+    "tip": "Interpret the intended meaning, not the literal image."
+  },
+  {
+    "id": "LT162",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, choose the correct verb: 'My brother, together with his friends, ___ coming.'",
+    "question": "My brother, together with his friends, ___ coming.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The main subject is 'my brother'. The phrase 'together with his friends' does not make it plural.",
+    "tip": "Ignore interrupting phrases when identifying the subject."
+  },
+  {
+    "id": "LT163",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, choose the correct question tag: 'You are coming, ___?'",
+    "question": "You are coming, ___?",
+    "options": [
+      "are you",
+      "aren't you",
+      "isn't it",
+      "don't you"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement usually takes a negative tag. 'You are' becomes 'aren't you'.",
+    "tip": "Question tags repeat the auxiliary verb and use the opposite polarity."
+  },
+  {
+    "id": "LT164",
+    "topic": "General English",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, you are writing a notice asking pupils to keep the corridor clear.",
+    "question": "Which sentence is clearest?",
+    "options": [
+      "Corridor no things please.",
+      "Please keep the corridor clear.",
+      "Things corridor not.",
+      "Clear keep corridor."
+    ],
+    "answer": 1,
+    "explanation": "The sentence is a clear and polite instruction.",
+    "tip": "Use a complete and direct sentence for notices."
+  },
+  {
+    "id": "LT165",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "At home, you are helping a younger learner. At the school library, you are describing a book.",
+    "question": "Which sentence uses a demonstrative correctly?",
+    "options": [
+      "Those book is new.",
+      "That book is new.",
+      "These book is new.",
+      "This books are new."
+    ],
+    "answer": 1,
+    "explanation": "'That' agrees with the singular noun 'book'.",
+    "tip": "This/that are singular; these/those are plural."
+  },
+  {
+    "id": "LT166",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. Your coach says the team must be 'punctual'.",
+    "question": "What does punctual mean?",
+    "options": [
+      "Always early or on time",
+      "Often absent",
+      "Very noisy",
+      "Unable to read"
+    ],
+    "answer": 0,
+    "explanation": "Punctual means arriving or happening at the agreed time.",
+    "tip": "Context clues help you understand new vocabulary."
+  },
+  {
+    "id": "LT167",
+    "topic": "Punctuation",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. You are writing a title for your composition.",
+    "question": "Which title is capitalised correctly?",
+    "options": [
+      "my best friend",
+      "My Best Friend",
+      "MY best friend",
+      "my Best friend"
+    ],
+    "answer": 1,
+    "explanation": "In title case, the main words begin with capital letters.",
+    "tip": "Follow the capitalisation style requested by your teacher."
+  },
+  {
+    "id": "LT168",
+    "topic": "Reading comprehension",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "At home, you are helping a younger learner. The class planted trees around the school. They watered them every morning.",
+    "question": "Why did the pupils water the trees?",
+    "options": [
+      "To help them grow",
+      "To remove the leaves",
+      "To make the soil disappear",
+      "To stop the sun"
+    ],
+    "answer": 0,
+    "explanation": "Water helps young trees grow and remain healthy.",
+    "tip": "Answer from information in the passage."
+  },
+  {
+    "id": "LT169",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. You are sorting words by their ending sounds.",
+    "question": "Which word ends with the /d/ sound?",
+    "options": [
+      "laughed",
+      "played",
+      "washed",
+      "packed"
+    ],
+    "answer": 1,
+    "explanation": "'Played' ends with the voiced /d/ sound.",
+    "tip": "The -ed ending has different pronunciations."
+  },
+  {
+    "id": "LT170",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. You are writing instructions for a class project.",
+    "question": "Which word best signals the first step?",
+    "options": [
+      "First",
+      "Finally",
+      "Although",
+      "Instead"
+    ],
+    "answer": 0,
+    "explanation": "'First' introduces the opening step in a sequence.",
+    "tip": "Use sequence markers to organise instructions."
+  },
+  {
+    "id": "LT171",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. You are describing what your family is doing at this moment.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "My family are eating now.",
+      "My family is eating now.",
+      "My family eat yesterday.",
+      "My family eating now."
+    ],
+    "answer": 1,
+    "explanation": "'Family' is treated as one unit here, so 'is eating' is appropriate.",
+    "tip": "Choose a verb that agrees with the subject and intended meaning."
+  },
+  {
+    "id": "LT172",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. You accidentally interrupt someone speaking.",
+    "question": "What should you say?",
+    "options": [
+      "Sorry, please continue.",
+      "Stop talking.",
+      "I do not care.",
+      "Speak faster."
+    ],
+    "answer": 0,
+    "explanation": "Apologising and inviting the person to continue is courteous.",
+    "tip": "Polite conversation includes respect for other speakers."
+  },
+  {
+    "id": "LT173",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. A friend says, 'She has a heart of gold.'",
+    "question": "What does this mean?",
+    "options": [
+      "She is kind and generous.",
+      "Her heart is made of metal.",
+      "She is wealthy.",
+      "She is ill."
+    ],
+    "answer": 0,
+    "explanation": "A heart of gold describes someone who is very kind.",
+    "tip": "Interpret the intended meaning, not the literal image."
+  },
+  {
+    "id": "LT174",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. Choose the correct verb: 'My brother, together with his friends, ___ coming.'",
+    "question": "My brother, together with his friends, ___ coming.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The main subject is 'my brother'. The phrase 'together with his friends' does not make it plural.",
+    "tip": "Ignore interrupting phrases when identifying the subject."
+  },
+  {
+    "id": "LT175",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "At home, you are helping a younger learner. Choose the correct question tag: 'You are coming, ___?'",
+    "question": "You are coming, ___?",
+    "options": [
+      "are you",
+      "aren't you",
+      "isn't it",
+      "don't you"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement usually takes a negative tag. 'You are' becomes 'aren't you'.",
+    "tip": "Question tags repeat the auxiliary verb and use the opposite polarity."
+  },
+  {
+    "id": "LT176",
+    "topic": "General English",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "At home, you are helping a younger learner. You are writing a notice asking pupils to keep the corridor clear.",
+    "question": "Which sentence is clearest?",
+    "options": [
+      "Corridor no things please.",
+      "Please keep the corridor clear.",
+      "Things corridor not.",
+      "Clear keep corridor."
+    ],
+    "answer": 1,
+    "explanation": "The sentence is a clear and polite instruction.",
+    "tip": "Use a complete and direct sentence for notices."
+  },
+  {
+    "id": "LT177",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During a class activity, at the school library, you are describing a book.",
+    "question": "Which sentence uses a demonstrative correctly?",
+    "options": [
+      "Those book is new.",
+      "That book is new.",
+      "These book is new.",
+      "This books are new."
+    ],
+    "answer": 1,
+    "explanation": "'That' agrees with the singular noun 'book'.",
+    "tip": "This/that are singular; these/those are plural."
+  },
+  {
+    "id": "LT178",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, your coach says the team must be 'punctual'.",
+    "question": "What does punctual mean?",
+    "options": [
+      "Always early or on time",
+      "Often absent",
+      "Very noisy",
+      "Unable to read"
+    ],
+    "answer": 0,
+    "explanation": "Punctual means arriving or happening at the agreed time.",
+    "tip": "Context clues help you understand new vocabulary."
+  },
+  {
+    "id": "LT179",
+    "topic": "Punctuation",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, you are writing a title for your composition.",
+    "question": "Which title is capitalised correctly?",
+    "options": [
+      "my best friend",
+      "My Best Friend",
+      "MY best friend",
+      "my Best friend"
+    ],
+    "answer": 1,
+    "explanation": "In title case, the main words begin with capital letters.",
+    "tip": "Follow the capitalisation style requested by your teacher."
+  },
+  {
+    "id": "LT180",
+    "topic": "Reading comprehension",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During a class activity, the class planted trees around the school. They watered them every morning.",
+    "question": "Why did the pupils water the trees?",
+    "options": [
+      "To help them grow",
+      "To remove the leaves",
+      "To make the soil disappear",
+      "To stop the sun"
+    ],
+    "answer": 0,
+    "explanation": "Water helps young trees grow and remain healthy.",
+    "tip": "Answer from information in the passage."
+  },
+  {
+    "id": "LT181",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, you are sorting words by their ending sounds.",
+    "question": "Which word ends with the /d/ sound?",
+    "options": [
+      "laughed",
+      "played",
+      "washed",
+      "packed"
+    ],
+    "answer": 1,
+    "explanation": "'Played' ends with the voiced /d/ sound.",
+    "tip": "The -ed ending has different pronunciations."
+  },
+  {
+    "id": "LT182",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, you are writing instructions for a class project.",
+    "question": "Which word best signals the first step?",
+    "options": [
+      "First",
+      "Finally",
+      "Although",
+      "Instead"
+    ],
+    "answer": 0,
+    "explanation": "'First' introduces the opening step in a sequence.",
+    "tip": "Use sequence markers to organise instructions."
+  },
+  {
+    "id": "LT183",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, you are describing what your family is doing at this moment.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "My family are eating now.",
+      "My family is eating now.",
+      "My family eat yesterday.",
+      "My family eating now."
+    ],
+    "answer": 1,
+    "explanation": "'Family' is treated as one unit here, so 'is eating' is appropriate.",
+    "tip": "Choose a verb that agrees with the subject and intended meaning."
+  },
+  {
+    "id": "LT184",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, you accidentally interrupt someone speaking.",
+    "question": "What should you say?",
+    "options": [
+      "Sorry, please continue.",
+      "Stop talking.",
+      "I do not care.",
+      "Speak faster."
+    ],
+    "answer": 0,
+    "explanation": "Apologising and inviting the person to continue is courteous.",
+    "tip": "Polite conversation includes respect for other speakers."
+  },
+  {
+    "id": "LT185",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, a friend says, 'She has a heart of gold.'",
+    "question": "What does this mean?",
+    "options": [
+      "She is kind and generous.",
+      "Her heart is made of metal.",
+      "She is wealthy.",
+      "She is ill."
+    ],
+    "answer": 0,
+    "explanation": "A heart of gold describes someone who is very kind.",
+    "tip": "Interpret the intended meaning, not the literal image."
+  },
+  {
+    "id": "LT186",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, choose the correct verb: 'My brother, together with his friends, ___ coming.'",
+    "question": "My brother, together with his friends, ___ coming.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The main subject is 'my brother'. The phrase 'together with his friends' does not make it plural.",
+    "tip": "Ignore interrupting phrases when identifying the subject."
+  },
+  {
+    "id": "LT187",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During a class activity, choose the correct question tag: 'You are coming, ___?'",
+    "question": "You are coming, ___?",
+    "options": [
+      "are you",
+      "aren't you",
+      "isn't it",
+      "don't you"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement usually takes a negative tag. 'You are' becomes 'aren't you'.",
+    "tip": "Question tags repeat the auxiliary verb and use the opposite polarity."
+  },
+  {
+    "id": "LT188",
+    "topic": "General English",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During a class activity, you are writing a notice asking pupils to keep the corridor clear.",
+    "question": "Which sentence is clearest?",
+    "options": [
+      "Corridor no things please.",
+      "Please keep the corridor clear.",
+      "Things corridor not.",
+      "Clear keep corridor."
+    ],
+    "answer": 1,
+    "explanation": "The sentence is a clear and polite instruction.",
+    "tip": "Use a complete and direct sentence for notices."
+  },
+  {
+    "id": "LT189",
+    "topic": "Grammar & sentence building",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, at the school library, you are describing a book.",
+    "question": "Which sentence uses a demonstrative correctly?",
+    "options": [
+      "Those book is new.",
+      "That book is new.",
+      "These book is new.",
+      "This books are new."
+    ],
+    "answer": 1,
+    "explanation": "'That' agrees with the singular noun 'book'.",
+    "tip": "This/that are singular; these/those are plural."
+  },
+  {
+    "id": "LT190",
+    "topic": "Vocabulary",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, your coach says the team must be 'punctual'.",
+    "question": "What does punctual mean?",
+    "options": [
+      "Always early or on time",
+      "Often absent",
+      "Very noisy",
+      "Unable to read"
+    ],
+    "answer": 0,
+    "explanation": "Punctual means arriving or happening at the agreed time.",
+    "tip": "Context clues help you understand new vocabulary."
+  },
+  {
+    "id": "LT191",
+    "topic": "Punctuation",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are writing a title for your composition.",
+    "question": "Which title is capitalised correctly?",
+    "options": [
+      "my best friend",
+      "My Best Friend",
+      "MY best friend",
+      "my Best friend"
+    ],
+    "answer": 1,
+    "explanation": "In title case, the main words begin with capital letters.",
+    "tip": "Follow the capitalisation style requested by your teacher."
+  },
+  {
+    "id": "LT192",
+    "topic": "Reading comprehension",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, the class planted trees around the school. They watered them every morning.",
+    "question": "Why did the pupils water the trees?",
+    "options": [
+      "To help them grow",
+      "To remove the leaves",
+      "To make the soil disappear",
+      "To stop the sun"
+    ],
+    "answer": 0,
+    "explanation": "Water helps young trees grow and remain healthy.",
+    "tip": "Answer from information in the passage."
+  },
+  {
+    "id": "LT193",
+    "topic": "Phonetics",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are sorting words by their ending sounds.",
+    "question": "Which word ends with the /d/ sound?",
+    "options": [
+      "laughed",
+      "played",
+      "washed",
+      "packed"
+    ],
+    "answer": 1,
+    "explanation": "'Played' ends with the voiced /d/ sound.",
+    "tip": "The -ed ending has different pronunciations."
+  },
+  {
+    "id": "LT194",
+    "topic": "Writing skills",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are writing instructions for a class project.",
+    "question": "Which word best signals the first step?",
+    "options": [
+      "First",
+      "Finally",
+      "Although",
+      "Instead"
+    ],
+    "answer": 0,
+    "explanation": "'First' introduces the opening step in a sequence.",
+    "tip": "Use sequence markers to organise instructions."
+  },
+  {
+    "id": "LT195",
+    "topic": "Tenses & verbs",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you are describing what your family is doing at this moment.",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "My family are eating now.",
+      "My family is eating now.",
+      "My family eat yesterday.",
+      "My family eating now."
+    ],
+    "answer": 1,
+    "explanation": "'Family' is treated as one unit here, so 'is eating' is appropriate.",
+    "tip": "Choose a verb that agrees with the subject and intended meaning."
+  },
+  {
+    "id": "LT196",
+    "topic": "Oral English",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, you accidentally interrupt someone speaking.",
+    "question": "What should you say?",
+    "options": [
+      "Sorry, please continue.",
+      "Stop talking.",
+      "I do not care.",
+      "Speak faster."
+    ],
+    "answer": 0,
+    "explanation": "Apologising and inviting the person to continue is courteous.",
+    "tip": "Polite conversation includes respect for other speakers."
+  },
+  {
+    "id": "LT197",
+    "topic": "Idioms & figures of speech",
+    "level": "JSS 2",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, a friend says, 'She has a heart of gold.'",
+    "question": "What does this mean?",
+    "options": [
+      "She is kind and generous.",
+      "Her heart is made of metal.",
+      "She is wealthy.",
+      "She is ill."
+    ],
+    "answer": 0,
+    "explanation": "A heart of gold describes someone who is very kind.",
+    "tip": "Interpret the intended meaning, not the literal image."
+  },
+  {
+    "id": "LT198",
+    "topic": "Concord",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, choose the correct verb: 'My brother, together with his friends, ___ coming.'",
+    "question": "My brother, together with his friends, ___ coming.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "The main subject is 'my brother'. The phrase 'together with his friends' does not make it plural.",
+    "tip": "Ignore interrupting phrases when identifying the subject."
+  },
+  {
+    "id": "LT199",
+    "topic": "Sentence transformation",
+    "level": "JSS 3",
+    "difficulty": "Intermediate",
+    "scenario": "During an English lesson, choose the correct question tag: 'You are coming, ___?'",
+    "question": "You are coming, ___?",
+    "options": [
+      "are you",
+      "aren't you",
+      "isn't it",
+      "don't you"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement usually takes a negative tag. 'You are' becomes 'aren't you'.",
+    "tip": "Question tags repeat the auxiliary verb and use the opposite polarity."
+  },
+  {
+    "id": "LT200",
+    "topic": "General English",
+    "level": "JSS 1",
+    "difficulty": "Beginner",
+    "scenario": "During an English lesson, you are writing a notice asking pupils to keep the corridor clear.",
+    "question": "Which sentence is clearest?",
+    "options": [
+      "Corridor no things please.",
+      "Please keep the corridor clear.",
+      "Things corridor not.",
+      "Clear keep corridor."
+    ],
+    "answer": 1,
+    "explanation": "The sentence is a clear and polite instruction.",
+    "tip": "Use a complete and direct sentence for notices."
+  }
+];
